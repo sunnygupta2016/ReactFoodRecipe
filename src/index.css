@@ -1,0 +1,28 @@
+div{
+	text-align:center;
+}
+nav{
+	background-color: orange;
+	height: 60px;
+	padding:20px;
+	
+}
+
+h1{
+	color:white;
+	height: 40px;
+}
+img{
+	height:300px ;
+	width: 300px;
+	border-radius: 10px;
+}
+p{
+	font-weight: bold;
+}
+small{
+	background-color: black;
+	color:white;
+	height: 40px;
+	width: 100px;
+}
